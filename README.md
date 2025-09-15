@@ -13,7 +13,6 @@ Prooktatáshoz használt SQL tananyag és a kapcsolódó Python használatot mut
 - PostgreSQL és DBeaver telepítése
 - `psycopg2` modul: `connect`, `cursor`, `execute`
 - Tábla létrehozása
-- Teszt az előző óra anyagából
 
 
 ### 2. 09.17 – SQL utasítások és lekérdezések
